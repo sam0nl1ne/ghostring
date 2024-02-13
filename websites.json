@@ -1,9 +1,31 @@
 [
     {
+        "name": "ghostring",
+        "slug": "ghostring",
+		"about": "Heck yeah!",
+        "url": "https://ghostring.neocities.org/",
+		"owner": "https://ghostring.neocities.org/"
+    },
+	
+    {
         "name": "Kersed",
         "slug": "kersed",
-		"about": "I run Ghostring! ",
+		"about": "I run Ghostring!",
         "url": "https://kersed.net/",
 		"owner": "@kern@hol.ogra.ph"
-    }
+    },
+	
+	{
+        "name": "GhostSalt",
+        "slug": "ghostsalt",
+		"about": "Cutesy ghost who does modding and blogging! :3",
+        "url": "https://ghostsalt.neocities.org/buttons-etc",
+		"owner": "https://ghostsalt.neocities.org/"
+    },
+	
+	{
+		"name": "Harvest Home",
+		"slug": "harvest-home",
+		"url": "https://harvest-home.neocities.org/"
+	}
 ]
