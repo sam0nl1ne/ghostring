@@ -3,7 +3,7 @@
   "path_output": "./public",
   "path_assets": "./data/assets",
   "path_templates": "./data/templates",
-  "shuffle": false,
+  "shuffle": true,
   "verbose": true,
   "skip_minify": false
 }
