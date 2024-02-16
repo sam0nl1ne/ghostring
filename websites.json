@@ -68,5 +68,14 @@
 		"about": "",
 		"url": "https://hell-mouth.neocities.org/ ",
 		"owner": "https://neocities.org/sites/hell-mouth/" 
-	}
+	},
+	
+	{
+		"name": "The Priestwife",
+		"slug": "priestwife",
+		"about": "The Priestwife is a weird, gory horror/fantasy webcomic about living with things that kill you. Upates the third Thursday of each month. ",
+		"url": "https://priestwife.neocities.org/ ",
+		"rss": "https://cohost.org/priestwife/",
+		"owner": "https://mellified.men/@Priestwife" 
+	}	
 ]
