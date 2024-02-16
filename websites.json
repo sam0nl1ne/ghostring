@@ -77,5 +77,13 @@
 		"url": "https://priestwife.neocities.org/ ",
 		"rss": "https://cohost.org/priestwife/",
 		"owner": "https://mellified.men/@Priestwife" 
-	}	
+	},
+
+	{
+		"name": "Monty's Mortuary",
+		"slug": "montys-mortuary",
+		"about": "Horror movies, goth music, and all things creepy and crawly "
+		"url": "https://montysmortuary.neocities.org/", 
+		"owner": "https://neocities.org/site/montysmortuary/"
+	}
 ]
