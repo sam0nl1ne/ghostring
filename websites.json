@@ -85,5 +85,14 @@
 		"about": "Horror movies, goth music, and all things creepy and crawly ",
 		"url": "https://montysmortuary.neocities.org/", 
 		"owner": "https://neocities.org/site/montysmortuary/"
+	},
+
+	{
+		"name": "foreverliketh.is",
+		"slug": "foreverlikethis",
+		"about": "Both blog and digital garden. Themes include: Education, Tech Lite, Life, Psychology and Journaling.",
+		"url": "https://foreverliketh.is/", 
+		"owner": "hi@foreverliketh.is"
 	}
+	
 ]
