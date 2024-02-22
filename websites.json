@@ -97,13 +97,14 @@
 	{
 		"name": "Forever Like This",
 		"slug": "foreverlikethis",
-		"url": "https://foreverliketh.is/", 
+		"url": "https://foreverliketh.is/"
 	},
 	
 	{
 		"name": "PROPHETESQUE",
 		"slug": "prophetesque",
-		"url": "https://prophetesque.gay/", 
+		"about": "the personal blog of a queer transfag furby guy.",
+		"url": "https://prophetesque.gay/affiliates", 
 		"owner": "https://neocities.org/site/prophetesque"
 	}
 ]
