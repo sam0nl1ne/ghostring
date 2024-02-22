@@ -86,19 +86,22 @@
 		"url": "https://montysmortuary.neocities.org/", 
 		"owner": "https://neocities.org/site/montysmortuary/"
 	},
-	
+
 	{
+		"name": "foreverliketh.is",
+		"slug": "foreverlikethis",
+		"about": "Both blog and digital garden. Themes include: Education, Tech Lite, Life, Psychology and Journaling.",
+		"url": "https://foreverliketh.is/", 
+		"owner": "hi@foreverliketh.is"
+  },
+	
+  {
 		"name": "Elbowthief",
 		"slug": "elbowthief",
 		"url": "https://elbowthief.neocities.org/", 
 		"owner": "https://neocities.org/site/elbowthief/"
 	},
-	
-	{
-		"name": "Forever Like This",
-		"slug": "foreverlikethis",
-		"url": "https://foreverliketh.is/"
-	},
+
 	
 	{
 		"name": "PROPHETESQUE",
