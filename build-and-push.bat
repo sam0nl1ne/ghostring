@@ -1,2 +1,2 @@
-ringfairy.exe --shuffle -Av
+ringfairy.exe
 neocities push ./public
