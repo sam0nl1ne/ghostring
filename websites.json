@@ -85,5 +85,25 @@
 		"about": "Horror movies, goth music, and all things creepy and crawly ",
 		"url": "https://montysmortuary.neocities.org/", 
 		"owner": "https://neocities.org/site/montysmortuary/"
+	},
+	
+	{
+		"name": "Elbowthief",
+		"slug": "elbowthief",
+		"url": "https://elbowthief.neocities.org/", 
+		"owner": "https://neocities.org/site/elbowthief/"
+	},
+	
+	{
+		"name": "Forever Like This",
+		"slug": "foreverlikethis",
+		"url": "https://foreverliketh.is/", 
+	},
+	
+	{
+		"name": "PROPHETESQUE",
+		"slug": "prophetesque",
+		"url": "https://prophetesque.gay/", 
+		"owner": "https://neocities.org/site/prophetesque"
 	}
 ]
