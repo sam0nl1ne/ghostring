@@ -93,6 +93,21 @@
 		"about": "Both blog and digital garden. Themes include: Education, Tech Lite, Life, Psychology and Journaling.",
 		"url": "https://foreverliketh.is/", 
 		"owner": "hi@foreverliketh.is"
-	}
+  },
 	
+  {
+		"name": "Elbowthief",
+		"slug": "elbowthief",
+		"url": "https://elbowthief.neocities.org/", 
+		"owner": "https://neocities.org/site/elbowthief/"
+	},
+
+	
+	{
+		"name": "PROPHETESQUE",
+		"slug": "prophetesque",
+		"about": "the personal blog of a queer transfag furby guy.",
+		"url": "https://prophetesque.gay/affiliates", 
+		"owner": "https://neocities.org/site/prophetesque"
+	}
 ]
