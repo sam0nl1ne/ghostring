@@ -3,6 +3,7 @@
   "path_output": "./public",
   "path_assets": "./data/assets",
   "path_templates": "./data/templates",
+  "base_url": "https://ghostring.neocities.org",
   "shuffle": true,
   "verbose": true,
   "skip_minify": false
