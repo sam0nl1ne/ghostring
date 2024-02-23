@@ -37,3 +37,11 @@ Remember to replace "YOUR_SLUG" with your actual slug:
 ```
 
 It's crucial that every site in the webring has these links (with their slug) accessible on the front page. Otherwise, the ring would be broken, and the site would need to be removed from the list. 
+
+## Cloning 
+
+You may clone this repo if you want a starting point for your own ringfairy-based webring, or if you want to make a backup/mirror of Ghostring. 
+
+You can create your own webring by replacing `websites.json` with your own list of sites, and editing the HTML/CSS files in the `/data` folder.
+
+However, this repo doesn't include ringfairy binaries. To generate a webring yourself, you'll need to download or compile ringfairy separately. 
