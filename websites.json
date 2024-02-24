@@ -57,7 +57,7 @@
 	{
         "name": "fruitscones",
         "slug": "fruitscones",
-		"about": "",
+		"about": "A personal site dedicated to horror, jjba and a bunch of other stuff",
         "url": "https://fruitscones.neocities.org/main/main",
 		"owner": "https://neocities.org/site/fruitscones"
     },
@@ -109,5 +109,14 @@
 		"about": "the personal blog of a queer transfag furby guy.",
 		"url": "https://prophetesque.gay/affiliates", 
 		"owner": "https://neocities.org/site/prophetesque"
+	},
+	
+	{
+		"name": "GIANTGHOST",
+		"slug": "GIANTGHOST",
+		"about": "Neocities hackersound hardcore mod music.",
+		"url": "https://giantghost.net/main", 
+		"rss": "https://giantghost.net/rss.xml",
+		"owner": "ghost@giantghost.net"
 	}
 ]
