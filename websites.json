@@ -118,5 +118,13 @@
 		"url": "https://giantghost.net/main", 
 		"rss": "https://giantghost.net/rss.xml",
 		"owner": "ghost@giantghost.net"
+	},
+	
+	{
+		"name": "trash and trash",
+		"slug": "trashandtrash",
+		"about": "a personal vocaloid themed site dedicated to an artist's nerdy interests",
+		"url": "https://trashandtrash.neocities.org/", 
+		"owner": "https://neocities.org/site/trashandtrash"
 	}
 ]
