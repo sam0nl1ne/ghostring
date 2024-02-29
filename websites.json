@@ -126,5 +126,21 @@
 		"about": "my personal website where i fool around! i have pages for my creations, resources, graphics hoard, and more! :)",
 		"url": "https://crisis.city",
 		"owner": "corvidae@crisis.city"
+	},
+	
+	{
+		"name": "Chills",
+		"slug": "chills",
+		"about": "a haunted house inhabited by a writer and collector of fears",
+		"url": "https://chills.neocities.org",
+		"owner": "actonimpulse@protonmail.com"
+	},
+	
+	{
+		"name": "DNAzone",
+		"slug": "dna",
+		"about": "A personal site about art, DIY occult things, and anything else that interests me.",
+		"url": "https://friofresco.neocities.org/",
+		"owner": "https://neocities.irg/site/friofresco/"
 	}
 ]
