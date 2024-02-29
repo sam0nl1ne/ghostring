@@ -142,5 +142,13 @@
 		"about": "A personal site about art, DIY occult things, and anything else that interests me.",
 		"url": "https://friofresco.neocities.org/",
 		"owner": "https://neocities.irg/site/friofresco/"
+	},
+
+	{
+		"name": "baccyflap.com",
+		"slug": "bfc",
+		"about": "last homely site east of the tubes",
+		"url": "http://baccyflap.com",
+		"owner": "rmf"
 	}
 ]
