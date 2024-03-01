@@ -35,7 +35,7 @@
         "slug": "gh0sted",
 		"about": "sewer",
         "url": "https://gh0sted.neocities.org/",
-		"owner": "https://gh0sted.neocities.org/"
+		"owner": "https://neocities.org/site/gh0sted"
     },
 	
 	{
@@ -68,7 +68,7 @@
 		"about": "The Priestwife is a weird, gory horror/fantasy webcomic about living with things that kill you. Upates the third Thursday of each month. ",
 		"url": "https://priestwife.neocities.org/main",
 		"rss": "https://cohost.org/priestwife/",
-		"owner": "https://mellified.men/@Priestwife" 
+		"owner": "@Priestwife@mellified.men" 
 	},
 
 	{
@@ -141,6 +141,14 @@
 		"slug": "dna",
 		"about": "A personal site about art, DIY occult things, and anything else that interests me.",
 		"url": "https://friofresco.neocities.org/",
-		"owner": "https://neocities.irg/site/friofresco/"
+		"owner": "https://neocities.org/site/friofresco/"
+	},
+	
+	{
+		"name": "Caesthoffe",
+		"slug": "caesthoffe",
+		"about": "a nerdcore punk-esque grunge nu-metalhead's personal project; filled with art, music, and other oddities!",
+		"url": "https://caesthoffe.neocities.org",
+		"owner": "https://neocities.org/site/caesthoffe/"
 	}
 ]
