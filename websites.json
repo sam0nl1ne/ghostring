@@ -158,5 +158,28 @@
 		"about": "a nerdcore punk-esque grunge nu-metalhead's personal project; filled with art, music, and other oddities!",
 		"url": "https://caesthoffe.neocities.org",
 		"owner": "https://neocities.org/site/caesthoffe/"
+	},
+	
+	{
+		"name": "ghostsite",
+		"slug": "ghostsite",
+		"url": "https://ghostsite.neocities.org/",
+		"owner": "https://neocities.org/site/ghostsite"
+	},
+	
+	{
+		"name": "Cryptid Diaries",
+		"slug": "cryptid-diaries",
+		"about": "Personal blog of investigative journalist and cryptozoologist",
+		"url": "https://cryptid-diaries.neocities.org/",
+		"owner": "https://neocities.org/site/cryptid-diaries/"
+	},
+	
+	{
+		"name": "Swamp Gremlin",
+		"slug": "swampgremlin",
+		"about": "Horror comic writer/ illustrator, we have spooks, specters, old men and my unsolicited opinion on things",
+		"url": "https://swampgremlin.neocities.org/",
+		"owner": "https://neocities.org/site/swampgremlin/"
 	}
 ]
