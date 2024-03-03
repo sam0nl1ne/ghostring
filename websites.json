@@ -181,5 +181,13 @@
 		"about": "Horror comic writer/ illustrator, we have spooks, specters, old men and my unsolicited opinion on things",
 		"url": "https://swampgremlin.neocities.org/",
 		"owner": "https://neocities.org/site/swampgremlin/"
-	}
+	},
+
+	 {
+        	"name": "sammylux",
+       	 	"slug": "sammylux",
+        	"about": "a trad goth, an artist, a horror freak, a cat lover. I post about my interests, maintain an art gallery for my illustrations and blog about anything I want!",
+        	"url": "https://sammylux.neocities.org/",
+        	"owner": "https://neocities.org/site/sammylux"
+    	}
 ]
